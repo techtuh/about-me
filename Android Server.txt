@@ -1,0 +1,6 @@
+C:\Users\HP\AppData\Local\Android\Sdk
+
+
+C:\Program Files\nodejs\
+
+C:\Users\HP\AppData\Local\Android\Sdk

@@ -1,0 +1,27 @@
+
+
+{
+"tuhin":
+ [
+ 	
+ 	{
+ 		"name": "tuhin",
+ 		"age": 35,
+ 		"height":5.8,
+ 		"weight": 65
+ 	},
+
+ 	{
+ 		"name" :"car",
+
+ 		"color": "White",
+
+ 		"make": "Marcedez",
+
+ 		" model": "MDX"
+
+
+ 	}
+ ]
+
+}

@@ -1,0 +1,24 @@
+Learn Java:
+
+OOPs = object is an instance of a class that may contain attributes and methods
+
+
+Static -= modifier. A single copy of a variable/method is created and shared. The class "owns" the static member
+
+Inheritance = the process where one class acquires, the attributes and methods of another.
+
+Abstract = abstract classes cannot be instantiated, but they can have a subclass abstract methods are declared without an implementation
+
+Encapsulation = attribute of a class will be hidden or private, Can be accessed only throug methods(getters and setters). you should make attributes private if you don't have a reason to make public and protected 
+
+PolyMorphism = greek word for poly "many" morph " form ", the ablity of an object to identify as more than one type
+
+Dynamic Polymorphism = During runtime many shape/form of object
+
+Interface = a template that can be applied to a class. similar to inheritance, but specifies what a class has / must do. classes can appply more than one interface, inheritance is limited to 1 super
+
+MethoOverRiding = Declaring a method in sub classs, which is already present arent class. done so that a child class can give its own implementation
+
+Exception = an event that occurs during the execution of a program that, disrupts the normal flow of instructions
+
+Exception Handle = try and catch, filaly block always excute

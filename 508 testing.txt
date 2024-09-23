@@ -1,0 +1,10 @@
+Accesssibility Testing-508:
+Tool: axe(google extensions)
+Role: Test
+others tools: Wave evaluation tool, Web Disability Simulator
+Test Case:
+1. open url
+2. goto page(page by page)
+
+3.inspect(goto tool axe)
+4. open bug and copy the issues

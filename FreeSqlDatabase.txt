@@ -1,0 +1,11 @@
+Free SQL Database 
+tech.worldevaluation
+Password#21
+acc#904499
+Host: sql5.freesqldatabase.com
+Database name: sql5705501
+Database username: sql5705501
+Database password: mGJiUpRh5x
+Port number: 3306
+
+Connection URL -jdbc:mysql://sql5.freesqldatabase.com:3306/sql5705501

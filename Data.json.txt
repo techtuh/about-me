@@ -1,0 +1,14 @@
+{
+Color:
+[
+{
+"Shirt": "White",
+"Pant": "Blue"
+}
+
+{  "Car": "Grey"'
+"Bike": 3
+}
+
+]
+}
